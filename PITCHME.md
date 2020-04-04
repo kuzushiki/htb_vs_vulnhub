@@ -1,4 +1,4 @@
-@snap[west span-40 text-center]
+@snap[west span-40 text-center text-06]
 
 ## Hack The Box
 
@@ -10,7 +10,7 @@
 
 @snapend
 
-@snap[east span-40 text-center]
+@snap[east span-40 text-center text-06]
 
 ## Vulnhub
 
